@@ -23,5 +23,6 @@ Frontend:
 
 HTML: Provides the structure of the website.
 CSS: Styles the layout, colors, and typography.
-JavaScript: Adds interactive features (e.g., smooth scrolling).
+JavaScript: Adds interactive features (e.g., smooth scrolling).![Screenshot_23-12-2024_155436_](https://github.com/user-attachments/assets/746d2261-870c-41f5-90b9-8c5ac67135eb)
+
 
