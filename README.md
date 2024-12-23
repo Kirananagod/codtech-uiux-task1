@@ -24,3 +24,4 @@ Frontend:
 HTML: Provides the structure of the website.
 CSS: Styles the layout, colors, and typography.
 JavaScript: Adds interactive features (e.g., smooth scrolling).
+
